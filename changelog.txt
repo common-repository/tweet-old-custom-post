@@ -1,0 +1,5 @@
+*New in version 16.3*
+Fix for initial state upon plugin activation, fix for showing correct list of posts on exclude posts page, fix for query for tweet posts. 
+*New in version 16.2*
+Fix for updated Twitter Auth
+
